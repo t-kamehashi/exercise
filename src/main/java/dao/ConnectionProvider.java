@@ -13,8 +13,8 @@ public class ConnectionProvider {
      */
 	private static final String DRIVER_NAME = "oracle.jdbc.driver.OracleDriver";
     private static final String URL = "jdbc:oracle:thin:@localhost:1521:XE";
-    private static final String USER_ID = "webapp";
-    private static final String PASSWORD = "webapp";
+    private static final String USER_ID = "webapp2";
+    private static final String PASSWORD = "webapp2";
 
     /**
      * コネクションオブジェクトを取得する。
